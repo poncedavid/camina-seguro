@@ -22,12 +22,14 @@ Camina Seguro es una aplicación para ayudar a las personas a caminar de manera 
 
 ## Requisitos
 
-Para utilizar y desarrollar este proyecto, necesitas tener las siguientes herramientas instaladas:
+Antes de comenzar a utilizar y desarrollar este proyecto, asegúrate de tener las siguientes herramientas instaladas:
 
-- Node.js y npm (Node Package Manager)
-- Ionic CLI
-- Angular CLI
-- Capacitor
+- [Node.js y npm](https://nodejs.org/): Utilizados para gestionar las dependencias del proyecto.
+- [Ionic CLI](https://ionicframework.com/docs/cli): Necesario para la interfaz de usuario.
+- [Angular CLI](https://angular.io/cli): Requerido para el desarrollo de la aplicación.
+- [Capacitor](https://capacitorjs.com/): Esencial para el despliegue en dispositivos móviles.
+
+Asegúrate de tener estas herramientas configuradas antes de empezar a trabajar en el proyecto.
 
 ## Características
 
