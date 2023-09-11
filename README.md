@@ -11,6 +11,7 @@
 * [Tecnologías utilizadas](#tecnologias-utilizadas)
 * [Documentacion](#documentación)
 * [Agradecimientos](#agradecimientos)
+* [Licencia](#licencia)
 
 ## Introducción
 
@@ -82,5 +83,8 @@ Para obtener más información sobre cómo usar la aplicación, consulta la [doc
 
 ## Agradecimientos
 
-Este proyecto es el resultado del trabajo de un equipo de desarrolladores de CLKTEAM. Agradecemos el apoyo del CITT de DuocUC, que nos proporcionó los recursos necesarios para llevar a cabo este proyecto.
+Este proyecto ha sido posible gracias al esfuerzo conjunto de nuestro equipo en [CLK Team](https://www.cloverluck.cl). También agradecemos al CITT de DuocUC por proporcionarnos los recursos necesarios para llevar a cabo este proyecto con éxito.
 
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
