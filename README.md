@@ -25,9 +25,16 @@ Camina Seguro es una aplicación para ayudar a las personas a caminar de manera 
 Antes de comenzar a utilizar y desarrollar este proyecto, asegúrate de tener las siguientes herramientas instaladas:
 
 - [Node.js y npm](https://nodejs.org/): Utilizados para gestionar las dependencias del proyecto.
+  - Puedes instalar Node.js y npm desde [aquí](https://nodejs.org/).
+
 - [Ionic CLI](https://ionicframework.com/docs/cli): Necesario para la interfaz de usuario.
+  - Instala Ionic CLI globalmente con el comando: `npm install -g @ionic/cli`.
+
 - [Angular CLI](https://angular.io/cli): Requerido para el desarrollo de la aplicación.
+  - Instala Angular CLI globalmente con el comando: `npm install -g @angular/cli`.
+
 - [Capacitor](https://capacitorjs.com/): Esencial para el despliegue en dispositivos móviles.
+  - Agrega Capacitor a tu proyecto con el comando: `npm install @capacitor/core`.
 
 Asegúrate de tener estas herramientas configuradas antes de empezar a trabajar en el proyecto.
 
