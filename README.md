@@ -1,7 +1,7 @@
 # Camina Seguro
 
 **Una aplicación desarrollada por CLKTEAM para CITT de DuocUC.**
-
+[![Imagen de la aplicación](https://example.com/imagen.png)](https://example.com/imagen.png)
 ## Tabla de contenidos
 
 * [Introducción](#introducción)
@@ -9,6 +9,7 @@
 * [Características](#características)
 * [Instalación y ejecución](#instalación-y-ejecución)
 * [Tecnologías utilizadas](#tecnologias-utilizadas)
+* [Documentacion](#documentación)
 * [Agradecimientos](#agradecimientos)
 
 ## Introducción
@@ -73,6 +74,11 @@ Camina Seguro está desarrollada con las siguientes tecnologías:
 * Ionic: un framework para crear aplicaciones móviles híbridas.
 * Angular: un framework para crear aplicaciones web SPA.
 * Capacitor: un puente que permite a las aplicaciones Ionic ejecutarse en dispositivos móviles.
+
+## Documentación
+
+Para obtener más información sobre cómo usar la aplicación, consulta la [documentación](https://example.com/documentacion.html).
+
 
 ## Agradecimientos
 
