@@ -65,3 +65,16 @@ Para instalar y ejecutar el proyecto, sigue estos pasos:
 ```bash
    ionic cordova run ios
 ```
+
+## Tecnologías utilizadas
+
+Camina Seguro está desarrollada con las siguientes tecnologías:
+
+* Ionic: un framework para crear aplicaciones móviles híbridas.
+* Angular: un framework para crear aplicaciones web SPA.
+* Capacitor: un puente que permite a las aplicaciones Ionic ejecutarse en dispositivos móviles.
+
+## Agradecimientos
+
+Este proyecto es el resultado del trabajo de un equipo de desarrolladores de CLKTEAM. Agradecemos el apoyo del CITT de DuocUC, que nos proporcionó los recursos necesarios para llevar a cabo este proyecto.
+
